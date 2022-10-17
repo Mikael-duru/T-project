@@ -101,7 +101,7 @@ header, .marketPrice {
 }
 
 @media screen and (max-width: 900px) {
-  .nav, .hero__illustration, .wrapper__ribbon, .scrool {
+  .nav, .nav__btn, .hero__illustration, .wrapper__ribbon, .scrool {
     display: none;
   }
 }
